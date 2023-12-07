@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScrptCalculator", "JavaScrptCalculator.csproj", "{ECAD22C5-E88E-4378-A9F7-11EF8A6ACA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAD22C5-E88E-4378-A9F7-11EF8A6ACA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAD22C5-E88E-4378-A9F7-11EF8A6ACA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAD22C5-E88E-4378-A9F7-11EF8A6ACA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAD22C5-E88E-4378-A9F7-11EF8A6ACA60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82748C83-02FA-48B0-85D5-C4B155D83782}
+	EndGlobalSection
+EndGlobal
